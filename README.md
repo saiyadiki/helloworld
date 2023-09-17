@@ -4,3 +4,4 @@ name:y.sai bhavani
 course:mca
 location:rajampet
 i am pusing mca
+affilated by jntua
